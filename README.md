@@ -1,10 +1,12 @@
 # asymmetric-cyber-defense
 
-This is a list of techniques that are cheap for cyber defenders and headaches for cyber attackers.
-
-> These techniques aim to disrupt attackers' return on investment.
+This is a list of techniques that are cheap and easy for cyber defenders to implement that disrupt attackers' return on investment.
 
 ## Techniques
+
+### General
+
+- [CanaryTokens](https://canarytokens.org/nest/)
 
 ### Databases
 
