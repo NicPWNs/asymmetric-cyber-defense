@@ -15,7 +15,7 @@ This is a list of techniques that are cheap and easy for cyber defenders to impl
 
 ### Web Applications
 
-- [WebLabrynth](https://github.com/mayhemiclabs/weblabyrinth)
+- [WebLabyrinth](https://github.com/mayhemiclabs/weblabyrinth)
 
 ## More Information
 
