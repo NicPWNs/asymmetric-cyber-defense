@@ -14,7 +14,8 @@ This is a list of techniques that are cheap and easy for cyber defenders to impl
 
 ### Network
 
-- [IPv4 Bogons](https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt)
+- Block [IPv4 Bogons](https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt)
+- Block [dnstwist domains](https://github.com/elceef/dnstwist)
 - [Open Dynamic Block Lists](https://opendbl.net)
 
 
