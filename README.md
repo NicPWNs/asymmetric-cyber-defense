@@ -8,12 +8,16 @@ This is a list of techniques that are cheap and easy for cyber defenders to impl
 
 - [CanaryTokens](https://canarytokens.org/nest/)
 
-### Databases
+### Database
 
 - Fake tables
 
+### Network
 
-### Web Applications
+- Block [IPv4 Bogons](https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt)
+
+
+### Web Application
 
 - [WebLabyrinth](https://github.com/mayhemiclabs/weblabyrinth)
 
