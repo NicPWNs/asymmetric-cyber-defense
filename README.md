@@ -1,6 +1,6 @@
 # asymmetric-cyber-defense
 
-A list of techniques that are cheap and easy for cyber defenders to implement that disrupt attackers' return on investment.
+A list of cheap and easy techniques for cyber defenders that disrupt attackers' return on investment.
 
 ## Techniques
 
